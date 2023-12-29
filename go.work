@@ -1,0 +1,8 @@
+go 1.21.4
+
+use (
+	./ch3/basename
+	./ch3/comma
+	./ch3/exercises
+	./ch3/printints
+)
